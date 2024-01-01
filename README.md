@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DEvackemann
 - 👀 I’m interested in MERN
-- 🌱 I’m currently learning React.js, Flutter, figma
+- 🌱 I’m currently learning JavaScript , React.js, Flutter, figma
 - 💞 Front-End Enthusiast| UI\UX 
 - 💬 Ask me about HTML,CSS,
 
