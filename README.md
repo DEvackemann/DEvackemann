@@ -1,5 +1,5 @@
 # 💫 About Me:
--👋 Hi, I’m @DEvackemann<br>- 👀 I’m interested in MERN<br>- 🌱 I’m currently learning DSA ,Backend<br>- 💞 Front-End Enthusiast| UI\UX developer <br>- 💬 Ask me about Frontend , Python , C++.
+-👋 Hi, I’m @DEvackemann<br>- 👀 I’m interested in MERN<br>- 🌱 I’m currently learning DSA ,Backend<br>- 💞 Front-End Enthusiast| UI\UX designer <br>- 💬 Ask me about Frontend , Python , C++.
 
 
 ## 🌐 Socials:
